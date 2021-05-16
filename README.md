@@ -1,4 +1,4 @@
-# becas
+
 ![](images/becas.png)
 
 Empresa
@@ -10,5 +10,5 @@ Requisitos:
 Link
 https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1
 
-![](images/audodesk.png)
+![](images/autodesk.png)
 ----
