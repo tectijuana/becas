@@ -15,3 +15,9 @@ https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1
 
 ![](images/autodesk.png)
 ----
+
+
+# CASOS CON LAS BECAS
+
+## Estudiante pone mal la edad y lo determinaron como menor de edad (K12)
+![](images/CASO-k12.png)
